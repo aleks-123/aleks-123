@@ -8,6 +8,8 @@ Hi there, My name is Aleksandar. A self-taught, passionate and fast-learner full
 
 📫 How to reach me... ace.ki@hotmail.com
 
+⚡️ Fun fact Déjà vu is just a brain-processing lag.
+
 ## {...} My stack 🚀 
 
 
@@ -22,24 +24,6 @@ Hi there, My name is Aleksandar. A self-taught, passionate and fast-learner full
   Open Source: ['Git, GitHub']
 }
 ```
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-
 ## 
 
 https://www.linkedin.com/in/aleksandarmilosheski
