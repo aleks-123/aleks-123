@@ -19,7 +19,7 @@ Hi there, My name is Aleksandar. A self-taught, passionate and fast-learner full
   backend: ['NodeJs'],
   frontend: ['ReactJs', 'jQuery', 'SASS'],
   databases: ['MongoDB'],
-  tools: ['Vs code', 'Postman', 'MongoDB Compass', 'Slack'],
+  tools: ['Vs code', 'Postman', 'MongoDB Compass', 'Slack', 'Chart.js'],
   Cloud: ['Heroku', 'Netlify'],
   Open Source: ['Git, GitHub']
 }
