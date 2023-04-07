@@ -1,6 +1,7 @@
 
 # Aleksandar Milosheski 👩‍💻
-Hi there, My name is Aleksandar. A self-taught, passionate and fast-learner full-stack developer from Macedonia. I love to work with new technologies and developing web applications. Currently, I am learning how to improve the performance of progressive web applications for better user experience seedling.
+Hi there, My name is Aleksandar.I am a highly skilled and experienced full stack developer with expertise in a wide range of programming languages and frameworks,i am committed to delivering high-quality software solutions that meet the needs of my clients. 
+
 
 💬 Ask me about #Javascript #ReactJS #NodeJS
 
