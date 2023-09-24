@@ -13,13 +13,13 @@ Hi there, My name is Aleksandar.I am a highly skilled and experienced full stack
 
 ```bash
 {
-  languages: ['JavaScript, TypeScript'],
+  languages: ['JavaScript', 'TypeScript'],
   backend: ['NodeJs, 'Express', 'GraphQL'],
   frontend: ['ReactJs', 'jQuery', 'SASS', 'Chart.js', 'D3.js', 'Vue.js', 'Svelte.js'],
   databases: ['MongoDB', 'MySQL', 'Redis'],
   tools: ['Vs code', 'Postman', 'MongoDB Compass', 'Slack'],
   Cloud: ['Heroku', 'Netlify'],
-  Open Source: ['Git, GitHub']
+  Open Source: ['Git', 'GitHub']
 }
 ```
 ## 
