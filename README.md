@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleks-123&" alt="aleks-123" /></p>
 
-![Custom Widget](https://myreadme.vercel.app/api/embed/alex-123?panels=panel1,panel2,panel3)
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
