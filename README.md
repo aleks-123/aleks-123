@@ -14,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleks-123&show_icons=true&locale=en" alt="aleks-123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleks-123&" alt="aleks-123" /></p>
+
+![Custom Widget](https://myreadme.vercel.app/api/embed/alex-123?panels=panel1,panel2,panel3)
