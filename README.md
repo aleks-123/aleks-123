@@ -15,4 +15,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleks-123&" alt="aleks-123" /></p>
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Funny Badge](https://img.shields.io/badge/This%20is%20a%20funny%20badge-123456?style=for-the-badge&logo=appveyor)
+
