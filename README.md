@@ -13,8 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleks-123&show_icons=true&locale=en" alt="aleks-123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleks-123&" alt="aleks-123" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aleks-123&" alt="aleks-123" /></p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 
