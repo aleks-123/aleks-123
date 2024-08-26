@@ -1,5 +1,5 @@
-<h1 align="center">Aleksandar Milosheski</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="left">Aleksandar Milosheski</h1>
+<h3 align="left">Full Stack Developer</h3>
 
 - website [https://portofilo-aleksandar.netlify.app/](https://portofilo-aleksandar.netlify.app/)
 - email **ace.ki@hotmail.com**
